@@ -165,12 +165,10 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-<<<<<<< HEAD
-    background: url("images/banner3.jpg") no-repeat center;
-=======
-    background: url("images/banner.jpeg") no-repeat center;
->>>>>>> 450ac685b709c9de876f36d22bf292f78468422c
-  
+    background: url("images/banner1.jpg") no-repeat center;
+   
+    background-size: auto; 
+
     height: 100vh;
     color: #fff;
     min-height: 500px;
